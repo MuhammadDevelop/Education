@@ -1,3 +1,4 @@
+import AboutRussian from './AboutRussian/AboutRussian'
 import Graduates from './Graduates/Graduates'
 import './Russian.scss'
 import RussianHero from './RussianHero/RussianHero'
@@ -11,33 +12,37 @@ export default function Russian() {
             <RussianHero />
             <marquee >
 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
-                  •  Kelajak kasblarini biz bilan o`rganing! 
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
+                •  Kelajak kasblarini biz bilan o`rganing!
 
             </marquee>
 
             <div className="container">
                 <RussianTimes />
-                <Teacher />
+                <AboutRussian />
                 <LearnRussian />
+                <Teacher />
                 <Graduates />
+                <button className="russian__linkBtn">
+                    Ro'yhatdan o'tish
+                </button>
             </div>
         </section>
     )

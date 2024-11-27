@@ -1,7 +1,7 @@
 @use '../../App.scss';
 
-.russian{
-    marquee{
+.russian {
+    marquee {
         display: flex;
         align-items: center;
         gap: 30px;
@@ -10,5 +10,15 @@
         padding: 30px 0px;
         color: #FFF;
     }
-   
+
+    &__linkBtn {
+        text-align: center;
+        display: block;
+        margin: 70px auto;
+        background: transparent;
+        font-size: 33px;
+        padding: 20px 40px;
+        border: 3px solid #0EB182;
+        font-weight: 700;
+    }
 }
