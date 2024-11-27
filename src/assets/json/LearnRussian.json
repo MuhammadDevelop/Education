@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title":"Alifbo va asosiy talaffuz qoidalari",
+        "text1":"Kirill yozuvi va harflarni o‘qish.",
+        "text2":"Asosiy talaffuz qoidalari, urg‘uni to‘g‘ri qo‘yish.",
+        "text3":null,
+        "text4":null
+    },
+    {
+        "id":2,
+        "title":"Grammatika asoslari",
+        "text1":"Otlar (имена существительные): jins, birlik/ko‘plik.",
+        "text2":"Fe'llar (глаголы): hozirgi, o‘tgan va kelasi zamon.",
+        "text3":"Sifatlar (прилагательные) va ularning otlarga moslanishi.",
+        "text4":"Ko‘makchilar (предлоги) va ularning ishlatilishi."
+    },
+    {
+        "id":3,
+        "title":"So‘z boyligini oshirish",
+        "text1":"Kundalik hayotda ishlatiladigan so‘zlar (raqamlar, kun nomlari, mavsumlar).",
+        "text2":"Kasb, joy va harakatga oid lug‘at.",
+        "text3":"Sinonimlar va antonimlar.",
+        "text4":null
+    },
+    {
+        "id":4,
+        "title":" Gap tuzish va so‘zlashuv ko‘nikmalari",
+        "text1":"Oddiy gaplar tuzish (so‘roq, inkor va tasdiq gaplar).",
+        "text2":"O‘zini tanishtirish, savol berish va javob berish.",
+        "text3":"Dialoglar o‘rganish (do‘konda, maktabda, sayohatda).",
+        "text4":null
+    },
+    {
+        "id":5,
+        "title":" Eshitish va tushunish ko‘nikmalari",
+        "text1":"Ruscha audio va videolarni eshitish orqali tushunishni rivojlantirish.",
+        "text2":"Turli mavzularda qisqa suhbatlarni o‘rganish.",
+        "text3":null,
+        "text4":null
+    },
+    {
+        "id":6,
+        "title":" O‘qish va yozish",
+        "text1":"Oddiy matnlarni o‘qish va tushunish.",
+        "text2":"Kundalik, xat yoki qisqa maqolalar yozishni o‘rganish.",
+        "text3":null,
+        "text4":null
+    },
+    {
+        "id":7,
+        "title":"Murakkab grammatik qoidalar",
+        "text1":"Kelishiklar (падежи) va ularning ot va sifatlarga ta'siri.",
+        "text2":"Mavhum otlar va murakkab gaplar tuzish.",
+        "text3":null,
+        "text4":null
+    },
+    {
+        "id":8,
+        "title":"Madaniyat va muloqot",
+        "text1":"Rus xalqining madaniyati, odob-axloq qoidalari.",
+        "text2":"Rus tilida samimiy va rasmiy muloqot uslublari.",
+        "text3":null,
+        "text4":null
+    },
+    {
+        "id":9,
+        "title":"Amaliy mashqlar",
+        "text1":"Guruh yoki juftlikda suhbatlar.",
+        "text2":"Sinfda rolli o‘yinlar.",
+        "text3":"Rus tilida qo‘shiqlar tinglash va gaplarni to‘ldirish mashqlari.",
+        "text4":null
+    }
+]

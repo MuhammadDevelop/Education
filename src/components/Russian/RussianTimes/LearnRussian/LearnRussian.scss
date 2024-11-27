@@ -1,0 +1,16 @@
+.learnRussian {
+    text-align: center;
+    margin: 100px 0px;
+    padding: 70px 0px;
+    border-top: .5px solid silver;
+    border-bottom: .5px solid silver;
+    border-width: 50%;
+
+    &__title {
+        font-size: 45px;
+        color: #A9895B;
+    }
+    &__general{
+        margin: 30px 0px;
+    }
+}

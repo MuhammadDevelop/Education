@@ -1,0 +1,34 @@
+.russianHero {
+    padding: 200px 0px 400px;
+    background-image: url(https://muallimlar.uz/images/posts/1697611234_1696531359_rus%20tili.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+
+    &__general {
+        position: relative;
+    }
+
+    &__title {
+        font-size: 80px;
+        color: #FFF;
+
+        span {
+            color: rgb(1, 64, 1);
+        }
+    }
+
+    &__text {
+        color: #FFF;
+        font-size: 30px;
+        margin-top: 30px;
+    }
+
+    &__btn {
+        background: transparent;
+        position: absolute;
+        bottom: -280px;
+       color: #FFF;
+    }
+}

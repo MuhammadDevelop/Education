@@ -1,0 +1,14 @@
+@use '../../App.scss';
+
+.russian{
+    marquee{
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        background: #0EB182;
+        font-size: 30px;
+        padding: 30px 0px;
+        color: #FFF;
+    }
+   
+}

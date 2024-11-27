@@ -1,0 +1,33 @@
+@use './fonts';
+@use './star';
+@use './body';
+@use './container';
+
+
+*,
+*::after,
+*::before {
+    @extend %star;
+}
+
+body {
+    @extend %body;
+    
+}
+
+.container {
+    @extend %container;
+  
+}
+
+@media screen and (max-width:992px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .container {
+        width: 95%;
+    }
+}

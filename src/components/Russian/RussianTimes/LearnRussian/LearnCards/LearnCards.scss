@@ -1,0 +1,23 @@
+.learnCards {
+    margin: 0 auto;
+    width: 70%;
+
+    &__title {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        font-size: 30px;
+     
+    }
+    &__span1{
+        padding: 10px 25px;
+        border-radius: 50%;
+        border: 1px solid #0EB182;
+    }
+
+    &__text{
+        font-size: 23px;
+        margin-left: 100px;
+        text-align-last: left;
+    }
+}
